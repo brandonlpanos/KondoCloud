@@ -1,4 +1,4 @@
-# # The Kondo Screening Cloud
+# The Kondo Screening Cloud
 
-![](images/andersonmodel)
+![](images/andersonmodel.png)
 
